@@ -31,4 +31,4 @@
 >  - CI/CD: Github Action
 >  - Frontend: HTML5 / CSS3 / JavaScript / Bulma / JQuery / Webpack / Node.js
 >
-> [상세정보 보기](https://github.com/BreedingMe/CoCoBackend)
+> [상세정보 보기](https://github.com/kangwongu/CoCoBackend#coco)
