@@ -27,7 +27,7 @@
 >  
 >  - Backend: Java 11 / Spring Boot 2.7.1 / Gradle / Spring Data JPA / Spring Security / Java JWT
 >  - Database: AWS RDS (MySQL)
->  - Infra: AWS RDS / AWS EC2 / AWS S3 / AWS CloudFront
+>  - Infra: AWS ELB / AWS EC2 / AWS S3 / AWS CloudFront
 >  - CI/CD: Github Action
 >  - Frontend: HTML5 / CSS3 / JavaScript / Bulma / JQuery / Webpack / Node.js
 >
