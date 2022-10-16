@@ -6,9 +6,11 @@
 <br>
 
 ## :smile: About me
-꾸준함을 통한 성장을 지향합니다.  
-남과 비교하기보다 어제의 나와 비교하며 하루하루 더 성장한 '나'를 보기 위해 노력합니다.  
-소통의 중요성을 이해하고 호의적인 태도로 소통하기 위해 노력합니다
+꾸준함을 통한 성장을 지향하는 예비 백엔드 개발자 강원구입니다.  
+`기억은 기록을 이기지 못한다`는 문구를 지침삼아, 기록하며 역량을 쌓고 있습니다.
+  - [Velog TIL](https://velog.io/@kwg527/series/TIL)
+  - [Github TIL](https://github.com/kangwongu/TIL)
+  - [알고리즘 공부](https://github.com/kangwongu/java_algorithm)
 
 <br>
 
