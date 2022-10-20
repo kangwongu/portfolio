@@ -24,17 +24,42 @@
 ## :closed_book: Project
 ### 1. CoCo
 
->  사이드 프로젝트 구인 플랫폼 (팀 프로젝트)
+>  사이드 프로젝트 구인 플랫폼 (팀 프로젝트)  
+>  개발 기간 : 2022.06.24 ~ 2022.07.29
 >
->  개발 기간 : 2022 06.24 ~ 2022.07.29
->
->  <br>
 >  기술 스택:
->  
 >  - Backend: Java 11 / Spring Boot 2.7.1 / Gradle 7.4.1 / Spring Data JPA / Spring Security / Java JWT
->  - Database: AWS RDS ((MySQL 8.0.28))
+>  - Database: AWS RDS (MySQL 8.0.28)
 >  - Infra: AWS ELB / AWS EC2 / AWS S3 / AWS CloudFront
 >  - CI/CD: Github Action
 >  - Frontend: HTML5 / CSS3 / JavaScript / Bulma / JQuery / Webpack / Node.js
 >
 > [상세정보 보기](https://github.com/kangwongu/CoCoBackend#coco)
+
+<br>
+
+### 2. CoCo (Python/Flask)
+
+>  사이드 프로젝트 구인 플랫폼 (팀 프로젝트)  
+>  개발 기간 : 2022.05.06 ~ 2022.05.12
+>
+>  기술 스택:
+>  - Backend: Python 3.8 / Flask 2.1.2
+>  - Database: MongoDB 5.0.8
+>  - Frontend: HTML5 / CSS3 / JavaScript / Bulma / JQuery / Webpack / Node.js
+>
+> [상세정보 보기](https://github.com/BreedingMe/CoCoBackend/tree/v1.0.0)
+
+<br>
+
+### 3. Step With Dog (스위독)
+
+>  반려동물 산책 코스 공유 서비스 (팀 프로젝트)  
+>  개발기간 : 2022.04.19 ~ 2022.04.22
+>
+>  기술 스택:
+>  - Backend: Python 3.8 / Flask 2.1.2
+>  - Database: MongoDB 5.0.8
+>  - Frontend: HTML5 / CSS3 / JavaScript / Bootstrap / JQuery
+>
+> [상세정보 보기](https://github.com/BreedingMe/StepWithDog)
